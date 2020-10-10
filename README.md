@@ -1,7 +1,7 @@
 # muse-osc-p5
 A connector that transmits data from the Muse Device to the P5 front-end using OSC.
-Inspired by [Gene Kogan's p5js-osc](https://github.com/genekogan/p5js-osc)
-To use this you'll need to buy [MindMonitor App](https://mind-monitor.com/)
+Inspired by [Gene Kogan's p5js-osc](https://github.com/genekogan/p5js-osc).
+To use this you'll need to buy [MindMonitor App](https://mind-monitor.com/).
 
 # Get started
 
