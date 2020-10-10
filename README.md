@@ -1,5 +1,5 @@
 # muse-osc-p5
-A connector that transmits data from the Muse Device to P5 front-end using OSC.
+A connector that transmits data from Muse Device to P5 front-end using OSC.
 To use this you'll need to buy [MindMonitor App](https://mind-monitor.com/).
 
 # Get started
