@@ -1,6 +1,5 @@
 # muse-osc-p5
-A connector that transmits data from the Muse Device to the P5 front-end using OSC.
-Inspired by [Gene Kogan's p5js-osc](https://github.com/genekogan/p5js-osc).
+A connector that transmits data from the Muse Device to P5 front-end using OSC.
 To use this you'll need to buy [MindMonitor App](https://mind-monitor.com/).
 
 # Get started
@@ -28,3 +27,6 @@ Now you should see the data transmitting directly in your browser.
 
 The brainwave data can be obtained from `osc.data` object: just use the name the name of the wave (`osc.data.delta`).
 You can extract custom data by setting [different OSC Tags](https://mind-monitor.com/FAQ.php#oscspec) in `base/osc.js` file.
+
+
+Inspired by [Gene Kogan's p5js-osc](https://github.com/genekogan/p5js-osc).
