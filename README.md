@@ -18,7 +18,7 @@ node bridge.js
 
 1. Start the script to receive OSC (The standart port is 5000)
 2. Start streaming the data from MindMonitor app
-3. Open `/base/index.html` in your browser.
+3. Open `/client/index.html` in your browser.
 
 Now you should see the data transmitting directly in your browser.
 
