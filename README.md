@@ -10,7 +10,7 @@ $ cd muse-osc-p5/
 $ npm install
 ```
 
-# Run the scipt
+# Run
 
 ```
 node bridge.js
