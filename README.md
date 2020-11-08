@@ -20,7 +20,7 @@ node bridge.js
 2. Start streaming the data from MindMonitor app
 3. Open `/client/index.html` in your browser.
 
-Now you should see the data transmitting directly in your browser.
+Now you should see the data transmitting directly to your browser.
 
 
 # Data
